@@ -16,5 +16,8 @@
     "url": "https://github.com/saurav-95-dev/Concepts-of-Angular/issues"
   },
   "homepage": "https://github.com/saurav-95-dev/Concepts-of-Angular#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
