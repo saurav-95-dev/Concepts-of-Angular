@@ -1,1 +1,3 @@
-Frontend - Angular 
+Frontend - Angular , Typescript
+
+Frontend - Java
