@@ -8,7 +8,7 @@ Linkedin : https://www.linkedin.com/in/saurabh-dev-9120aa236/
 
 Instagram :
 
-CONCEPTS : 
+Concepts : 
 
 Project :
 
